@@ -1,0 +1,14 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+tests/test_advanced.py
+tests/test_basic.py
+timucua/__init__.py
+timucua/core.py
+timucua/helpers.py
+timucua/orthography.py
+timucua.egg-info/PKG-INFO
+timucua.egg-info/SOURCES.txt
+timucua.egg-info/dependency_links.txt
+timucua.egg-info/top_level.txt
