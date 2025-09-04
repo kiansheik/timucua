@@ -1,3 +1,3 @@
-currently workin on a conjugation quiz for timucua
+currently workin on an anki deck for timucua
 
-[kiansheik.io/timucua/quiz](https://kiansheik.io/timucua/quiz)
+[kiansheik.io/timucua/](https://kiansheik.io/timucua/)
